@@ -1,0 +1,48 @@
+h1{
+    color:  #081f96;
+}
+
+#header h2{
+    color: #081f96;
+}
+
+
+.text{
+    color:  #081f96;  
+}
+
+#header{
+    background-color:#00ffff;
+}
+
+.games{
+    background-color:#00ffff;
+    display: flex;
+    justify-content: space-evenly;
+    border: solid;
+    flex-wrap: wrap;
+}
+
+.item{
+    justify-content: space-evenly;
+    border: solid;
+    flex-shrink: 500;
+    margin-top: 100px;
+    padding:50px;
+}
+
+a:visited {
+    color:   #125f07;
+}
+
+.item a {
+    opacity: 1;
+}
+
+.item:hover img{
+    opacity: 0.8;
+}
+
+body {
+    background-color: #00ffff;
+}
